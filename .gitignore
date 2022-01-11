@@ -233,4 +233,4 @@ _Pvt_Extensions
 
 
 #setting files
-appsettings.json
+appsettings.Development.json
